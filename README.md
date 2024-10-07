@@ -35,6 +35,7 @@
 ├── index.html        # Main HTML file
 ├── style.css         # CSS for styling the password generator
 └── script.js         # JavaScript file for password generation logic
+  
 </code></pre>
 
 <h2>Future Enhancements</h2>
